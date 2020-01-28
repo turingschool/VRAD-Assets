@@ -1,4 +1,5 @@
-# vrad_assets
+# Images for VRAD
+![Houses](https://media.giphy.com/media/pwZQukFKVFM64/giphy.gif)
 
 ## Directions for VRAD Project
 
